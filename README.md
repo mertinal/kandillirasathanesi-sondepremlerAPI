@@ -1,7 +1,7 @@
 # kandillisondepremler-api
 Bu api ile kandilli rasathanesinin yayınladığı son 500 deprem verisine json formatında erişebilirsiniz.
 
-"magnitude"=>"Deprem Büyüklüğü"
+"magnitude"=>"Deprem Büyüklüğü"<br>
 "latitude"=>"Enlem"
 "longitude"=>"Boylam"
 "location"=>"Deprem Adresi(Text),
