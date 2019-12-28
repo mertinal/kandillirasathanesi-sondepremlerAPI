@@ -2,12 +2,12 @@
 Bu api ile kandilli rasathanesinin yayınladığı son 500 deprem verisine json formatında erişebilirsiniz.
 
 "magnitude"=>"Deprem Büyüklüğü"<br>
-"latitude"=>"Enlem"
-"longitude"=>"Boylam"
-"location"=>"Deprem Adresi(Text),
-"depth"=>"Derinlik",
-"timestamp"=>"Unix timestamp cinsinden depremin gerçekleşme tarihi",
-"time"=>"Depremin gerçekleşme tarihi"
+"latitude"=>"Enlem"<br>
+"longitude"=>"Boylam"<br>
+"location"=>"Deprem Adresi(Text)<br>
+"depth"=>"Derinlik"<br>
+"timestamp"=>"Unix timestamp cinsinden depremin gerçekleşme tarihi"<br>
+"time"=>"Depremin gerçekleşme tarihi"<br>
 
 # API Endpoint
 http://api.mert.space/deprem/sondepremler.php
